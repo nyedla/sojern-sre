@@ -19,3 +19,8 @@ Haven't played with GKE before so was a little confused around the resource name
 
 **Taint**
 ![Taint](/z-snapshots/taint.png)
+
+*(2)K8s Deployment*
+
+**Resources**
+![All](/z-snapshots/resources.png)
